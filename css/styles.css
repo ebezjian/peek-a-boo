@@ -10,3 +10,15 @@
 .clickable:hover {
     text-decoration: underline;
 }
+img {
+    max-width:400px;
+  }
+
+  #sandcastle-showing {
+    display: none;
+}
+
+.clickable2 {
+    cursor: pointer;
+    color: #0088cc;
+}
