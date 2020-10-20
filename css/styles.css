@@ -22,3 +22,25 @@ img {
     cursor: pointer;
     color: #0088cc;
 }
+
+.cyan-background {
+    background-color: cyan;
+}
+
+.black-background {
+    background-color: black;
+    color: white;
+}
+.btn-black {
+    background-color: black;
+    color: white;
+}
+.btn-cyan {
+    background-color: cyan;
+    color: black;
+}
+.btn {
+    border: 80px;
+    border-color: chocolate;
+    width: 90px;
+}
